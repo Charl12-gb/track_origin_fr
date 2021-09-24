@@ -1,0 +1,42 @@
+Instructions for use.
+
+track_b allows you to track your packages between Benin and China. 
+It is based on the trackingmore API.
+So you need to create an account on trackingmore.com, in order to get your API key
+
+To use track_b, you must first install and activate the WooCommerce plugin
+
+Then download the track_b plugins.
+Once the download is complete, go to the admin part of WordPress,
+Selected extensions => add => Upload an extension
+
+Then choose the zipped track_b file to download then you just have to click and activate the plugin.
+
+Once activated, create a page, give the beach the name you want.
+For the content of the page, you must put the following shotcode: [track_code]
+
+You must then click on Track in the admin part and enter, that API key
+in order to allow your customers to send you tracking numbers.
+
+
+
+Français
+Instructions d'utilisations.
+
+track_b vous vous permet de suivre vos colis entre le Benin et la Chine. 
+Il est basé sur l'API de trackingmore. 
+Donc vous devez créer un compte sur trackingmore.com, afin de pouvoir obtenir votre clé API
+
+Pour utiliser track_b, il faut avant tout installer et activer le plugin de WooCommerce
+
+Ensuite télécharger le plugins track_b.
+Une fois le téléchargement terminé, il faut se rendre dans la partie admin de WordPress,
+Sélectionné extensions => ajouter => Téléverser une extension
+
+Choisir par la suite le fichier zippé de track_b télécharger puis il faut reste qu'à cliquer et activer le plugin.
+
+Une fois activer, créer une page, donner à la plage le nom que vous voulez.
+Pour le contenu de la page, il faut mettre le shotcode suivant : [track_code]
+
+Il faut par la suite, cliquer sur Track au niveau de la partie admin et entrer, ça clé API 
+afin de permettre à vos clients de vous envoyer des numéros de suivi.
